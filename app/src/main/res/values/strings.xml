@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final Exam 07590548</string>
+    <string name="register_success" />
+    <string name="register_error_message" />
+    <string name="register_password_error" />
+    <string name="login_error_message" />
+</resources>
